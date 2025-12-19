@@ -71,7 +71,7 @@ capstone\_insomnia\_collection.yaml
 1. Open capstone-api-starter in IntelliJ IDEA
 2. Configure database credentials in application.properties
 3. Run the Spring Boot application
-4. Backend API will be available at http://localhost:8080
+4. Backend API will be available at http://localhost:3306
 
 ## Running the Frontend Application
 
